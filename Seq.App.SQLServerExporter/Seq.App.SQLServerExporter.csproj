@@ -6,7 +6,7 @@
 	  <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 	  <TreatSpecificWarningsAsErrors />
 	  <Authors>John D. Miller</Authors>
-	  <VersionPrefix>1.0.0</VersionPrefix>
+	  <VersionPrefix>1.0.3</VersionPrefix>
 	  <Description>Exports events from Seq directly into a MSSQL database.</Description>
 	  <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 	  <Copyright>Copyright © John Miller</Copyright>
