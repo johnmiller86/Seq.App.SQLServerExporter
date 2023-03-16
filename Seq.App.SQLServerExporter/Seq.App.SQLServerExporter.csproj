@@ -6,7 +6,7 @@
 	  <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 	  <TreatSpecificWarningsAsErrors />
 	  <Authors>John D. Miller</Authors>
-	  <VersionPrefix>1.0.3</VersionPrefix>
+	  <VersionPrefix>1.0.4</VersionPrefix>
 	  <Description>Exports events from Seq directly into a MSSQL database.</Description>
 	  <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 	  <Copyright>Copyright © John Miller</Copyright>
@@ -40,7 +40,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
 		<PackageReference Include="Seq.Apps" Version="2021.4.0" />
 		<PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
 	</ItemGroup>
