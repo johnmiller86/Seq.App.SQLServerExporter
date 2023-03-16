@@ -10,11 +10,11 @@
 	  <Description>Exports events from Seq directly into a MSSQL database.</Description>
 	  <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
 	  <Copyright>Copyright © John Miller</Copyright>
-	  <RepositoryUrl>TODO</RepositoryUrl>
+	  <RepositoryUrl>https://github.com/johnmiller86/Seq.App.SQLServerExporter</RepositoryUrl>
 	  <RepositoryType>git</RepositoryType>
 	  <PackageTags>seq-app</PackageTags>
 	  <PackageLicenseFile>LICENSE</PackageLicenseFile>
-	  <PackageProjectUrl>https://github.com/johnmiller86/seq-apps-sqlserverexporter</PackageProjectUrl>
+	  <PackageProjectUrl>https://github.com/johnmiller86/Seq.App.SQLServerExporter</PackageProjectUrl>
 	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	  <PackageIcon>SQL.png</PackageIcon>
 	  <ApplicationIcon>SQL.ico</ApplicationIcon>
